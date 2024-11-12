@@ -30,7 +30,7 @@
     position: absolute;
     bottom: 0;
     padding: 20px;
-    font-family: var( --playfair-display);
+    font-family: var(--playfair-display);
     font-weight: 700;
     font-size: 120px;
     line-height: 138px;
